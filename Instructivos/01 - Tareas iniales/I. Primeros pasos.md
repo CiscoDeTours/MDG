@@ -42,7 +42,7 @@ su
 
 • Introducir nombre de usuario:
  
-`sudo usermod -aG sudo` + `usuario`
+`sudo usermod -aG sudo` `usuario`
 
 
 • Reiniciar el Sistema:
