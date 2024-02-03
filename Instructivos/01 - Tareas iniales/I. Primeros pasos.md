@@ -23,16 +23,15 @@ timedatectl set-local-rtc 1 --adjust-system-clock
 
 #### I.3 - Convertirse en usuario SUDOER
 
-> **Nota:**
-> <p> <p>
->  
-> Se requiere de privilegio root para proseguir
+• Adquirir privilegio root:
 
 ~~~
 su
 ~~~
 
-> **:**
+• Introducir nombre de usuario:
+
+> **Nota:**
 > <p> <p>
 >  
 > El nombre de usuario es aquel de color verde que se encuentra a la izquierda de la arroba 
@@ -44,7 +43,8 @@ su
     
 `sudo usermod -aG sudo` + `usuario`
 
-> **Advertencia:** El siguiente comando reinicia el Sistema
+• Reiniciar el Sistema:
+
 ~~~
 sudo reboot
 ~~~
