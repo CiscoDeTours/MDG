@@ -14,7 +14,7 @@ Pulsar la tecla `SUPR` a fondo
 
 #### III.2 - Introducir componentes generales:
 
-• Introducir componentes:
+• Elegir distribución:
 
 ~~~
 #REPOSITORIOS
