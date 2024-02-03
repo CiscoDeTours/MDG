@@ -38,7 +38,7 @@ sudo apt install git wget -y
 > **Nota:**
 > <p> <p>
 >  
-> Instrucciones de reemplazo para preinstalaciones de querer flatpak como opción
+> La primera línea corresponde al comando de de desinstalación mientras que la segunda instala la versión flatpak
 
 
 #### O.I.1 - Libre Office
