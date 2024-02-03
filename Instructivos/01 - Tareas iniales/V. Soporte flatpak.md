@@ -38,7 +38,7 @@ sudo apt install git wget -y
 > **Nota:**
 > <p> <p>
 >  
-> La primera línea corresponde al comando de de desinstalación mientras que la segunda instala la versión flatpak
+> La primera línea corresponde al comando de desinstalación de la versión nativa mientras que la segunda instala la versión flatpak
 
 
 #### O.I.1 - Libre Office
@@ -47,7 +47,7 @@ sudo apt install git wget -y
 sudo apt install git wget -y
 ~~~
 
-#### O.I.2 - Totem
+#### O.I.2 - Gnome Videos
 
 ~~~
 sudo apt install git wget -y
