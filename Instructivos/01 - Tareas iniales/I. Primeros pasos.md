@@ -42,7 +42,7 @@ su
 
 • Agregar usuario a la lista de sudoers:
  
-`sudo usermod -aG sudo` `**nombre**`
+`sudo usermod -aG sudo` `nombre`
 
 
 • Reiniciar el Sistema:
