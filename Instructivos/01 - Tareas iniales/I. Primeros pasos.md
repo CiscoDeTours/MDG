@@ -30,7 +30,7 @@ timedatectl set-local-rtc 1 --adjust-system-clock
 >  
 > Es aquel de color verde que se encuentra al lado izquierdo de la arroba 
 
-**usuario**@debian:~$
+**nombre**@debian:~$
 
 
 • Adquirir privilegio root:
@@ -42,7 +42,7 @@ su
 
 • Introducir nombre de usuario:
  
-`sudo usermod -aG sudo` `usuario`
+`sudo usermod -aG sudo` `nombre`
 
 
 • Reiniciar el Sistema:
