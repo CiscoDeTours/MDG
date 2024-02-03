@@ -38,8 +38,6 @@ su
 > <p> <p>
 > 
 > **usuario**@debian:~$
-
-
     
 `sudo usermod -aG sudo` + `usuario`
 
