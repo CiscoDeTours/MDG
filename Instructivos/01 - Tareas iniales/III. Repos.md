@@ -12,7 +12,9 @@ Pulsar la tecla `SUPR` a fondo
 
 ~~~
 
-#### III.2 - Introducir componentes generales:
+#### III.2 - Cambiar las fuentes
+
+• Introducir componentes generales:
 
 ~~~
 #REPOSITORIOS
