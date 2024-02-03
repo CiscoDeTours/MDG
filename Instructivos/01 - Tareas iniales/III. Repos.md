@@ -14,6 +14,8 @@ Pulsar la tecla `SUPR` a fondo
 
 #### III.2 - Introducir componentes generales:
 
+• Introducir componentes
+
 ~~~
 #REPOSITORIOS
 #DE DEBIAN 12 EN ADELANTE
@@ -31,6 +33,8 @@ deb http://deb.debian.org/debian DISTRO main contrib non-free
 deb http://deb.debian.org/debian-security DISTRO-security main contrib non-free
 deb http://deb.debian.org/debian DISTRO-updates main contrib non-free
 ~~~
+
+• Guardar cambios
 
 Pulsar `CTRL + X` → tecla `S` → tecla `ENTER`
 
