@@ -25,12 +25,12 @@ timedatectl set-local-rtc 1 --adjust-system-clock
 
 • Identificar nombre de usuario en la Consola:
 
+**usuario**@debian:~$
+
 > **Nota:**
 > <p> <p>
 >  
 > Es aquel de color verde que se encuentra al lado izquierdo de la arroba 
-
-**usuario**@debian:~$
 
 
 • Adquirir privilegio root:
