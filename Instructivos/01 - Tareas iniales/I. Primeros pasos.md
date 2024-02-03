@@ -29,17 +29,16 @@ timedatectl set-local-rtc 1 --adjust-system-clock
 su
 ~~~
 
+
 • Introducir nombre de usuario:
 
-> **Nota:**
-> <p> <p>
->  
-> El nombre de usuario es aquel de color verde que se encuentra a la izquierda de la arroba 
+> **Identificación:**
 > <p> <p>
 > 
 > **usuario**@debian:~$
     
 `sudo usermod -aG sudo` + `usuario`
+
 
 • Reiniciar el Sistema:
 
