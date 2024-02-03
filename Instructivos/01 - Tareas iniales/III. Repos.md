@@ -14,8 +14,6 @@ Pulsar la tecla `SUPR` a fondo
 
 #### III.2 - Introducir componentes generales:
 
-• Elegir distribución:
-
 ~~~
 #REPOSITORIOS
 #DE DEBIAN 12 EN ADELANTE
