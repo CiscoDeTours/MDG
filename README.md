@@ -4,7 +4,7 @@ https://github.com/CiscoDeTours/MDG/blob/e9e917624f4a4e1240e5fa5abf01fa0234ae0ff
 
 > **Objetivo:**
 > 
-> Tener una distribución funcional en el menor tiempo posible
+> Tener una distribución funcional en el menor tiempo posible usando primordialmente la Consola
 
 
 #### I. Primeros pasos
