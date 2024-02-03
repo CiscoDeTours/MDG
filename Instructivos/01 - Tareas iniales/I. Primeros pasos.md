@@ -40,7 +40,7 @@ su
 ~~~
 
 
-• Introducir usuario:
+• Agregar usuario a la lista de sudoers:
  
 `sudo usermod -aG sudo` `nombre`
 
