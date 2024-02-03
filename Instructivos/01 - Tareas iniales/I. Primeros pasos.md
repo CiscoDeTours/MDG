@@ -23,6 +23,16 @@ timedatectl set-local-rtc 1 --adjust-system-clock
 
 #### I.3 - Convertirse en usuario SUDOER
 
+• Identificar nombre de usuario en la Consola:
+
+> **Nota:**
+> <p> <p>
+>  
+> Es aquel de color verde que se encuentra al lado izquierdo de la arroba 
+
+**usuario**@debian:~$
+
+
 • Adquirir privilegio root:
 
 ~~~
@@ -31,12 +41,7 @@ su
 
 
 • Introducir nombre de usuario:
-
-> **Identificación:**
-> <p> <p>
-> 
-> **usuario**@debian:~$
-    
+ 
 `sudo usermod -aG sudo` + `usuario`
 
 
