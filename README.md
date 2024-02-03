@@ -1,3 +1,5 @@
+https://github.com/CiscoDeTours/MDG/blob/e9e917624f4a4e1240e5fa5abf01fa0234ae0ff8/Instructivos/01%20-%20Tareas%20iniales/I.%20Primeros%20pasos.md
+
 ## 1.0 / Primeros pasos
 
 > **Objetivo:**
