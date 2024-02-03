@@ -31,8 +31,15 @@ timedatectl set-local-rtc 1 --adjust-system-clock
 ~~~
 su
 ~~~
+
+> **Advertencia:**
+> <p> <p>
+>  
+> El nombre de usuario es aquel que se encuentra a la izquierda de la arroba **usuario**@debian
+
+
     
-`sudo usermod -aG sudo` + `nombre de usuario`
+`sudo usermod -aG sudo` + `usuario`
 
 > **Advertencia:** El siguiente comando reinicia el Sistema
 ~~~
