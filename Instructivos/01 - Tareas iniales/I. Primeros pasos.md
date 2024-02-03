@@ -32,10 +32,13 @@ timedatectl set-local-rtc 1 --adjust-system-clock
 su
 ~~~
 
-> **Advertencia:**
+> **:**
 > <p> <p>
 >  
-> El nombre de usuario es aquel que se encuentra a la izquierda de la arroba **usuario**@debian
+> El nombre de usuario es aquel de color verde que se encuentra a la izquierda de la arroba 
+> <p> <p>
+> 
+> **usuario**@debian:~$
 
 
     
