@@ -33,7 +33,7 @@ sudo reboot
 sudo apt install git wget -y
 ~~~
 
-## Pasos optativos
+## Reemplazos optativos
 
 > **Nota:**
 > <p> <p>
@@ -41,13 +41,13 @@ sudo apt install git wget -y
 > Instrucciones de reemplazo para preinstalaciones de querer flatpak como opción
 
 
-#### O.I.1 - Reemplazar versión nativa de Libre Office
+#### O.I.1 - Libre Office
 
 ~~~
 sudo apt install git wget -y
 ~~~
 
-#### O.I.2 - Reemplazar versión nativa de Disks
+#### O.I.2 - Totem
 
 ~~~
 sudo apt install git wget -y
