@@ -64,7 +64,7 @@ flatpak install flathub com.valvesoftware.Steam -y
 
 • Lutris (Lanzador de plataformas adicionales)
 ~~~
-flatpak install flathub org.inkscape.Inkscape -y
+flatpak install flathub net.lutris.Lutris -y
 ~~~
 
 
