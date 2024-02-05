@@ -37,7 +37,7 @@ flatpak install flathub org.inkscape.Inkscape -y
 flatpak install flathub com.obsproject.Studio
 ~~~
 
-• Steam (Bilbioteca de juegos)
+• Steam (Plataforma de juegos)
 
 ~~~
 flatpak install flathub com.valvesoftware.Steam -y
