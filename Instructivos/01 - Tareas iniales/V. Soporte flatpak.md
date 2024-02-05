@@ -38,13 +38,21 @@ sudo apt install git wget -y
 > **Nota:**
 > <p> <p>
 >  
-> La primera línea corresponde al comando de desinstalación de la versión nativa mientras que la segunda instala la versión flatpak
+> La primera línea corresponde al comando de desinstalación de la versión nativa; la segunda a una operación de limpieza y la última consuma el cambio
 
 
 #### O.I.1 - Libre Office
 
 ~~~
-sudo apt install git wget -y
+sudo apt-get remove --purge libreoffice*
+~~~
+
+~~~
+sudo apt autoremove
+~~~
+
+~~~
+
 ~~~
 
 #### O.I.2 - Gnome Videos
