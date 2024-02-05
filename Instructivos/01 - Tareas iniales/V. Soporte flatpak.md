@@ -44,7 +44,7 @@ sudo apt install git wget -y
 #### O.I.1 - Libre Office
 
 ~~~
-sudo apt-get remove --purge libreoffice*
+sudo apt remove --purge libreoffice* -y
 ~~~
 
 ~~~
@@ -52,7 +52,7 @@ sudo apt autoremove
 ~~~
 
 ~~~
-
+flatpak install flathub org.libreoffice.LibreOffice -y
 ~~~
 
 #### O.I.2 - Gnome Videos
