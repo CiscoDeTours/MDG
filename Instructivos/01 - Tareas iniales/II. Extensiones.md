@@ -1,6 +1,6 @@
 # Extensiones
 
-#### II.1 - Agregar complemento de navegador:
+#### II.1 - Agregar complemento de navegador
 
 > **Importante:**
 > <p> <p>
