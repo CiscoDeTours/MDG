@@ -48,7 +48,7 @@ flatpak install flathub io.missioncenter.MissionCenter -y
 
 • OBS (Grabador de pantalla)
 ~~~
-flatpak install flathub com.obsproject.Studio
+flatpak install flathub com.obsproject.Studio -y
 ~~~
 
 
