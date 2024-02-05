@@ -75,7 +75,7 @@ flatpak install flathub net.lutris.Lutris -y
 > **Nota:**
 > <p> <p>
 >  
-> La primera línea corresponde al comando para desinstalar la versión nativa; la segunda a una operación de limpieza y la última consuma el reemplazo
+> La primera línea corresponde al comando para desinstalar la versión nativa; la segunda a una operación de limpieza y la última consuma el cambio por la versión flatpak
 
 
 #### O.V.1 - Libre Office
