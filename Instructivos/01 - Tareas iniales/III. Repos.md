@@ -1,6 +1,6 @@
 # Repositorios
 
-#### III.1 - Abrir la lista de fuentes y borrar su contenido:
+#### III.1 - Abrir la lista de fuentes y borrar su contenido
 
 ~~~
 sudo nano /etc/apt/sources.list
@@ -39,7 +39,7 @@ deb http://deb.debian.org/debian DISTRO-updates main contrib non-free
 Pulsar `CTRL + X` → tecla `S` → tecla `ENTER`
 
 
-#### III.3 - Agregar la versión instalada de Debian:
+#### III.3 - Agregar la versión instalada de Debian
 
 Habiendo guardado los cambios, es imperativo proceder con el reemplazo de la palabra `DISTRO` con la `versión` instalada del SO usando privilegio root.
 
@@ -87,14 +87,14 @@ sudo dpkg --add-architecture i386
 ~~~
 
 
-#### III.5 - Confirmar la adición de las fuentes:
+#### III.5 - Confirmar la adición de las fuentes
 
 ~~~
 sudo apt update
 ~~~
 
 
-#### III.6 - Forzar actualización del Sistema para estar al día:
+#### III.6 - Forzar actualización del Sistema para estar al día
 
 ~~~
 sudo apt upgrade
