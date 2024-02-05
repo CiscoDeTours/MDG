@@ -26,12 +26,26 @@ sudo reboot
 
 #### V.2 - Catálogo de recomendaciones:
 
-
-• Reprocuctor multimedia:
+• Inkscape:
 
 ~~~
-sudo apt install git wget -y
+flatpak install flathub org.inkscape.Inkscape -y
 ~~~
+
+• Steam:
+
+~~~
+flatpak install flathub com.valvesoftware.Steam -y
+~~~
+
+• VLC:
+
+~~~
+flatpak install flathub org.videolan.VLC -y
+~~~
+
+
+
 
 ## Reemplazos optativos
 
