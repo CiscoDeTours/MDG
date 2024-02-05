@@ -62,7 +62,7 @@ flatpak install flathub org.videolan.VLC -y
 flatpak install flathub com.valvesoftware.Steam -y
 ~~~
 
-• Lutris (Lanzador de plataformas adicionales)
+• Lutris (Lanzador para plataformas adicionales)
 ~~~
 flatpak install flathub net.lutris.Lutris -y
 ~~~
