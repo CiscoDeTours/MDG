@@ -60,8 +60,13 @@ sudo apt install gnome-boxes -y
 #### O.IV.1 - Quitar software preinstalado poco utilizado
 
 ~~~
-sudo apt remove aisleriot debian-reference-common evolution five-or-more four-in-a-row hdate-applet hitori iagno im-config gnome-2048 gnome-chess gnome-contacts gnome-klotski gnome-mahjongg gnome-maps gnome-mines gnome-nibbles gnome-robots gnome-sudoku gnome-taquin gnome-tetravex gnome-weather goldendict kasumi lightsoff malcontent mlterm-common mozc-utils-gui quadrapassel shotwell swell-foop tali thunderbird transmission-gtk xiterm+thai yelp 
+sudo apt remove aisleriot debian-reference-common evolution five-or-more four-in-a-row hdate-applet hitori iagno im-config gnome-2048 gnome-chess gnome-contacts gnome-klotski gnome-mahjongg gnome-maps gnome-mines gnome-nibbles gnome-robots gnome-sudoku gnome-taquin gnome-tetravex gnome-weather goldendict kasumi lightsoff malcontent mlterm-common mozc-utils-gui quadrapassel rhythmbox shotwell swell-foop tali thunderbird transmission-gtk xiterm+thai yelp 
 ~~~
+
+> **Nota:**
+> <p> <p>
+>  
+> El siguiente comando opera como una herramienta de limpieza
 
 ~~~
 sudo apt autoremove 
