@@ -26,24 +26,24 @@ sudo reboot
 
 #### V.2 - Catálogo de recomendaciones:
 
-• Inkscape (Editor de imágenes):
+• Inkscape (Editor de imágenes)
 
 ~~~
 flatpak install flathub org.inkscape.Inkscape -y
 ~~~
 
-• OBS (Grabador de pantalla):
+• OBS (Grabador de pantalla)
 ~~~
 flatpak install flathub com.obsproject.Studio
 ~~~
 
-• Steam (Bilbioteca de juegos):
+• Steam (Bilbioteca de juegos)
 
 ~~~
 flatpak install flathub com.valvesoftware.Steam -y
 ~~~
 
-• VLC (Reproductor multimedia):
+• VLC (Reproductor multimedia)
 
 ~~~
 flatpak install flathub org.videolan.VLC -y
