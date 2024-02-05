@@ -24,7 +24,15 @@ flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.f
 sudo reboot
 ~~~
 
-#### V.2 - Catálogo de recomendaciones:
+
+#### V.2 - Gestor de permisos:
+
+~~~
+flatpak install flathub com.github.tchx84.Flatseal -y
+~~~
+
+
+#### V.3 - Catálogo de recomendaciones:
 
 • Inkscape (Editor de imágenes)
 
@@ -58,7 +66,7 @@ flatpak install flathub org.videolan.VLC -y
 > La primera línea corresponde al comando para desinstalar la versión nativa; la segunda a una operación de limpieza y la última consuma el reemplazo
 
 
-#### O.I.1 - Libre Office
+#### O.V.1 - Libre Office
 
 ~~~
 sudo apt remove --purge libreoffice* -y
@@ -72,7 +80,7 @@ sudo apt autoremove
 flatpak install flathub org.libreoffice.LibreOffice -y
 ~~~
 
-#### O.I.2 - Gnome Videos
+#### O.V.2 - Gnome Videos
 
 ~~~
 sudo apt install git wget -y
