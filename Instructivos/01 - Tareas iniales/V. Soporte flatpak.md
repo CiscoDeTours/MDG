@@ -38,7 +38,7 @@ sudo apt install git wget -y
 > **Nota:**
 > <p> <p>
 >  
-> La primera línea corresponde al comando de desinstalación de la versión nativa; la segunda a una operación de limpieza y la última consuma el cambio
+> La primera línea corresponde al comando para desinstalar la versión nativa; la segunda a una operación de limpieza y la última consuma el reemplazo
 
 
 #### O.I.1 - Libre Office
