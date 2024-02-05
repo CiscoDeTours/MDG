@@ -5,7 +5,7 @@
 >  
 > Minimizar el problema de paquetes y dependencias rotas usando programas desacoplados del Sistema 
 
-#### V.1 - Instalación
+#### V.1 - Activación
 
 ~~~
 sudo apt install flatpak
@@ -25,7 +25,7 @@ sudo reboot
 ~~~
 
 
-#### V.2 - Gestor de permisos
+#### V.2 - Instalación de gestor de permisos
 
 ~~~
 flatpak install flathub com.github.tchx84.Flatseal -y
