@@ -92,6 +92,21 @@ sudo apt autoremove
 flatpak install flathub org.libreoffice.LibreOffice -y
 ~~~
 
+#### O.V.2 - Cheese (Cámara)
+
+~~~
+sudo apt remove cheese -y
+~~~
+
+~~~
+sudo apt autoremove
+~~~
+
+~~~
+flatpak install flathub org.gnome.Cheese -y
+~~~
+
+
 #### O.V.2 - Gnome Videos
 
 ~~~
