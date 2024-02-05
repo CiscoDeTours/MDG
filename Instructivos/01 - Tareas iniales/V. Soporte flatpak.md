@@ -35,24 +35,29 @@ flatpak install flathub com.github.tchx84.Flatseal -y
 #### V.3 - Catálogo de recomendaciones:
 
 • Inkscape (Editor de imágenes)
-
 ~~~
 flatpak install flathub org.inkscape.Inkscape -y
 ~~~
+
+
+• Mission center (Monitor de recursos)
+~~~
+flatpak install flathub io.missioncenter.MissionCenter -y
+~~~
+
 
 • OBS (Grabador de pantalla)
 ~~~
 flatpak install flathub com.obsproject.Studio
 ~~~
 
-• Steam (Plataforma de juegos)
 
+• Steam (Plataforma de juegos)
 ~~~
 flatpak install flathub com.valvesoftware.Steam -y
 ~~~
 
 • VLC (Reproductor multimedia)
-
 ~~~
 flatpak install flathub org.videolan.VLC -y
 ~~~
