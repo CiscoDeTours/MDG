@@ -25,14 +25,14 @@ sudo reboot
 ~~~
 
 
-#### V.2 - Gestor de permisos:
+#### V.2 - Gestor de permisos
 
 ~~~
 flatpak install flathub com.github.tchx84.Flatseal -y
 ~~~
 
 
-#### V.3 - Catálogo de recomendaciones:
+#### V.3 - Catálogo de recomendaciones
 
 • Inkscape (Editor de imágenes)
 ~~~
@@ -57,7 +57,7 @@ flatpak install flathub org.videolan.VLC -y
 ~~~
 
 
-#### V.4 - Gaming:
+#### V.4 - Gaming
 
 • Steam (Plataforma de juegos)
 ~~~
