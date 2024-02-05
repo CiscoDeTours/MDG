@@ -51,15 +51,20 @@ flatpak install flathub io.missioncenter.MissionCenter -y
 flatpak install flathub com.obsproject.Studio -y
 ~~~
 
+• VLC (Reproductor multimedia)
+~~~
+flatpak install flathub org.videolan.VLC -y
+~~~
+
 
 • Steam (Plataforma de juegos)
 ~~~
 flatpak install flathub com.valvesoftware.Steam -y
 ~~~
 
-• VLC (Reproductor multimedia)
+• Lutris (Lanzador de plataformas adicionales)
 ~~~
-flatpak install flathub org.videolan.VLC -y
+flatpak install flathub org.inkscape.Inkscape -y
 ~~~
 
 
