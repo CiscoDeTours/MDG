@@ -57,6 +57,8 @@ flatpak install flathub org.videolan.VLC -y
 ~~~
 
 
+#### V.4 - Gaming:
+
 • Steam (Plataforma de juegos)
 ~~~
 flatpak install flathub com.valvesoftware.Steam -y
