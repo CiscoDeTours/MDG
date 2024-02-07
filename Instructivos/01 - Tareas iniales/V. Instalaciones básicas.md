@@ -27,15 +27,7 @@ sudo apt install rsync -y
 ~~~
 
 
-
-#### V.2 - Drivers para impresoras 
-
-~~~
-sudo apt install printer-driver-all -y
-~~~
-
-
-#### V.3 - Herramientas
+#### V.2 - Herramientas
 
 • Para gestionar particiones:
 
