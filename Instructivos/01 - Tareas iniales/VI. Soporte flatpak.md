@@ -5,7 +5,7 @@
 >  
 > Minimizar el problema de paquetes y dependencias rotas usando programas desacoplados del Sistema 
 
-#### V.1 - Instalación
+#### VI.1 - Instalación
 
 ~~~
 sudo apt install flatpak
@@ -25,14 +25,14 @@ sudo reboot
 ~~~
 
 
-#### V.2 - Descarga del gestor de permisos
+#### VI.2 - Descarga del gestor de permisos
 
 ~~~
 flatpak install flathub com.github.tchx84.Flatseal -y
 ~~~
 
 
-#### V.3 - Catálogo de recomendaciones
+#### VI.3 - Catálogo de recomendaciones
 
 • Inkscape (Editor de imágenes)
 ~~~
@@ -57,7 +57,7 @@ flatpak install flathub org.videolan.VLC -y
 ~~~
 
 
-#### V.4 - Gaming
+#### VI.4 - Gaming
 
 • Steam (Plataforma de juegos)
 ~~~
@@ -78,7 +78,7 @@ flatpak install flathub net.lutris.Lutris -y
 > La primera línea corresponde al comando para desinstalar la versión nativa; la segunda a una operación de limpieza y la última consuma el cambio por la versión flatpak
 
 
-#### O.V.1 - Libre Office
+#### O.VI.1 - Libre Office
 
 ~~~
 sudo apt remove --purge libreoffice* -y
@@ -92,7 +92,7 @@ sudo apt autoremove
 flatpak install flathub org.libreoffice.LibreOffice -y
 ~~~
 
-#### O.V.2 - Cheese (Cámara)
+#### O.VI.2 - Cheese (Cámara)
 
 ~~~
 sudo apt remove cheese -y
@@ -107,7 +107,7 @@ flatpak install flathub org.gnome.Cheese -y
 ~~~
 
 
-#### O.V.2 - Gnome Videos
+#### O.VI.2 - Gnome Videos
 
 ~~~
 sudo apt install git wget -y
