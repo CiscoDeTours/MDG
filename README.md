@@ -19,10 +19,15 @@ https://github.com/CiscoDeTours/ManualDebinomita/blob/38c68297d8cf3c0623b53e88e5
 https://github.com/CiscoDeTours/ManualDebinomita/blob/main/Instructivos/Repos.md
 
 
-#### IV. Instalaciones básicas
+#### IV. Drivers
+https://github.com/CiscoDeTours/ManualDebinomita/blob/main/Instructivos/Repos.md
+
+
+#### V. Instalaciones básicas
 https://github.com/CiscoDeTours/ManualDebinomita/blob/38c68297d8cf3c0623b53e88e55a59f5ed372047/Instructivos/Primeros%20Pasos.md
 
-#### V. Flatpak
+
+#### VI. Flatpak
 https://github.com/CiscoDeTours/ManualDebinomita/blob/38c68297d8cf3c0623b53e88e55a59f5ed372047/Instructivos/Primeros%20Pasos.md
 
 
