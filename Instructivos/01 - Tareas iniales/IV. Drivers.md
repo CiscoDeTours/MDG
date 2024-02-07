@@ -6,9 +6,8 @@
 > Se reserva la paquetería nativa para aquello que está íntimamente conexo al Sistema
 
 
-#### V.1 - Impresoras
-
-• Para Android:
+#### VI.2 - Impresoras 
 
 ~~~
-sudo apt install adb fastboot -y
+sudo apt install printer-driver-all -y
+~~~
