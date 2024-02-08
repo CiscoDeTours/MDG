@@ -1,5 +1,12 @@
 # Drivers
 
+Como aclaración
+
+> **Aclaración:**
+> <p> <p>
+>  
+> **Debian 12** lo tiene incluído por defecto
+
 #### IV.1 - Tarjetas de red 
 
 > **Nota:**
