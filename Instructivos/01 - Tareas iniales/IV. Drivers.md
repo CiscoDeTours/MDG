@@ -29,6 +29,11 @@ sudo apt install printer-driver-all -y
 
 #### IV.3 - Microcódigo para CPU
 
+> **Nota:**
+> <p> <p>
+>  
+> Debian 12 ya lo incluye por defecto
+
 • AMD:
 
 ~~~
