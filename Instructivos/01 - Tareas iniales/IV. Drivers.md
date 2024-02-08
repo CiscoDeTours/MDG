@@ -1,6 +1,6 @@
 # Drivers
 
-Es importante aclarar que la instalación en red de Debian -refiriéndome al NET Installer y a las ISOs conectadas al internet- suele descargar el contenido aquí descrito haciendo necesaria 
+Es importante aclarar que la instalación en red de Debian suele descargar el contenido aquí descrito haciendo de esta 
 
 
 #### IV.1 - Tarjetas de red 
