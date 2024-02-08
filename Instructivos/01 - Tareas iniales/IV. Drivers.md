@@ -25,3 +25,25 @@ sudo apt install firmware-realtek -y
 ~~~
 sudo apt install printer-driver-all -y
 ~~~
+
+
+#### IV.3 - Microcódigo para CPU
+
+• AMD:
+
+~~~
+sudo apt install firmware-iwlwifi -y
+~~~
+
+• Intel:
+
+~~~
+sudo apt install firmware-iwlwifi -y
+~~~
+
+
+#### IV.4 - Nvidia 
+
+~~~
+sudo apt install printer-driver-all -y
+~~~
