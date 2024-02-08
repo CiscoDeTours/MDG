@@ -5,7 +5,7 @@
 > **Nota:**
 > <p> <p>
 >  
-> Omitir paso en Debian 12 que los tiene acertadamente instalados por defecto 
+> Omitir paso en **Debian 12** que los tiene acertadamente instalados por defecto 
 
 • Intel:
 
