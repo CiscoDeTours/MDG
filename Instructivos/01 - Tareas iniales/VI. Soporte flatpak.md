@@ -8,7 +8,7 @@
 #### VI.1 - Instalación
 
 ~~~
-sudo apt install flatpak
+sudo apt install flatpak -y
 ~~~
 
 ~~~
