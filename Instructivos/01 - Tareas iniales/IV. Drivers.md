@@ -5,7 +5,7 @@
 > **Nota:**
 > <p> <p>
 >  
-> En Debian 12 ya están instaladas
+> En Debian 12 ya están instalados por defecto
 
 • Intel:
 
