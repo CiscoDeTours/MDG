@@ -32,18 +32,18 @@ sudo apt install printer-driver-all -y
 > **Nota:**
 > <p> <p>
 >  
-> Debian 12 ya lo incluye por defecto
+> **Debian 12** lo tiene incluído por defecto
 
 • AMD:
 
 ~~~
-sudo apt install firmware-iwlwifi -y
+sudo apt install amd64-microcode -y
 ~~~
 
 • Intel:
 
 ~~~
-sudo apt install firmware-iwlwifi -y
+sudo apt install intel-microcode -y
 ~~~
 
 
