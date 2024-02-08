@@ -1,15 +1,22 @@
 # Drivers
 
-> **Enfoque:**
-> <p> <p>
->  
-> Se reserva la paquetería nativa para aquello que está íntimamente conexo al Sistema
-
-
 #### IV.1 - Tarjetas de red 
 
+> **Nota:**
+> <p> <p>
+>  
+> En Debian 12 ya están instaladas
+
+• Intel:
+
 ~~~
-sudo apt install printer-driver-all -y
+sudo apt install firmware-iwlwifi -y
+~~~
+
+• Realtek:
+
+~~~
+sudo apt install firmware-realtek -y
 ~~~
 
 
