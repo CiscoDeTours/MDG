@@ -1,6 +1,6 @@
 # Drivers
 
-Es importante aclarar que la instalación en red de Debian suele descargar el contenido aquí descrito haciendo de esta 
+Es importante aclarar que la instalación en red de Debian suele descargar el contenido aquí descrito haciendo de esta sección 
 
 
 #### IV.1 - Tarjetas de red 
