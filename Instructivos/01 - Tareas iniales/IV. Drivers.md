@@ -1,6 +1,6 @@
 # Drivers
 
-Como aclaración
+Es importante aclarar que la instalación en red de Debian -refiriendome al NET Installer y a las ISO- incluye gran parte del contenido aquí descrito haciendo necesaria su para
 
 > **Aclaración:**
 > <p> <p>
