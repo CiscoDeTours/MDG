@@ -5,7 +5,7 @@
 > **Nota:**
 > <p> <p>
 >  
-> Omitir en Debian 12 porque ya vienen instalados por defecto
+> Omitir en Debian 12 que los tiene acertadamente instalados por defecto 
 
 • Intel:
 
