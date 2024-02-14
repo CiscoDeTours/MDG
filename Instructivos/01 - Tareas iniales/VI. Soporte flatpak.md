@@ -51,6 +51,13 @@ flatpak install flathub io.missioncenter.MissionCenter -y
 flatpak install flathub com.obsproject.Studio -y
 ~~~
 
+
+• Only Office (Editor de documentos)
+~~~
+flatpak install flathub org.onlyoffice.desktopeditors -y
+~~~
+
+
 • VLC (Reproductor multimedia)
 ~~~
 flatpak install flathub org.videolan.VLC -y
