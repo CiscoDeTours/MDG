@@ -9,7 +9,7 @@ gsettings set org.gnome.desktop.peripherals.touchpad click-method areas
 > **Advertencia:**
 > <p> <p>
 >  
-> Para pegar este comando con la extraña configuración que en ciertos casos está habilitada por defecto debe pulsarse el touchpad con dos dedos al mismo tiempo. De persistir problemas, es recomendable usar un mouse
+> Para pegar este comando con la extraña configuración que en ciertos casos está habilitada por defecto debe pulsarse el touchpad con dos dedos al mismo tiempo. De persistir problemas, es recomendable usar un mouse.
 
 
 
