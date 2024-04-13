@@ -1,6 +1,12 @@
 ### 
 
-#### I.1 - Nativa
+#### I.1 - Desactivar actualizaciones automáticas
+
+~~~
+gsettings set org.gnome.software download-updates false
+~~~
+
+#### I.2 - Nativa
 
 • Listar actualizaciones disponibles
 
@@ -14,7 +20,7 @@ apt list --upgradable
 sudo apt upgrade -y
 ~~~
 
-#### I.2 - Flatpak
+#### I.3 - Flatpak
 
 • Ver actualizaciones disponibles
 
