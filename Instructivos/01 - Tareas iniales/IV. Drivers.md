@@ -30,6 +30,13 @@ sudo apt install printer-driver-all -y
 ~~~
 
 
+#### IV.2 - Audio 
+
+~~~
+sudo apt install alsa-tools -y
+~~~
+
+
 #### IV.3 - Microcódigo para CPU
 
 > **Nota:**
