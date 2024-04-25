@@ -20,9 +20,9 @@ Pulsar la tecla `SUPR` a fondo
 #REPOSITORIOS
 #DE DEBIAN 12 EN ADELANTE
 
-deb http://deb.debian.org/debian DISTRO main contrib non-free non-free-firmware
-deb http://deb.debian.org/debian-security DISTRO-security main contrib non-free non-free-firmware
-deb http://deb.debian.org/debian DISTRO-updates main contrib non-free non-free-firmware
+deb http://deb.debian.org/debian trixie main contrib non-free non-free-firmware
+deb http://deb.debian.org/debian-security trixie-security main contrib non-free non-free-firmware
+deb http://deb.debian.org/debian trixie-updates main contrib non-free non-free-firmware
 ~~~
 
 ~~~
