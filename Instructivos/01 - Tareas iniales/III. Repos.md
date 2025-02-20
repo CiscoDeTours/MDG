@@ -1,6 +1,6 @@
 # Repositorios
 
-#### III.1 - Borrar contenido por defecto
+#### III.1 - Borrar fuentes por defecto
 
 ~~~
 sudo truncate -s0 /etc/apt/sources.list
