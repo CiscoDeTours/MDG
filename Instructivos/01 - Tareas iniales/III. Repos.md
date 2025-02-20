@@ -1,15 +1,9 @@
 # Repositorios
 
-#### III.1 - Abrir la lista de fuentes y borrar su contenido
+#### III.1 - Borrar contenido por defecto
 
 ~~~
-sudo nano /etc/apt/sources.list
-~~~
-
-Pulsar la tecla `SUPR` a fondo
-
-~~~
-
+sudo truncate -s0 /etc/apt/sources.list
 ~~~
 
 #### III.2 - Cambiar las fuentes
