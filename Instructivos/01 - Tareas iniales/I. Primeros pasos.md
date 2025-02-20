@@ -28,19 +28,6 @@ gsettings set org.gnome.software download-updates false
 
 #### I.4 - Convertirse en usuario SUDOER
 
-• Identificar nombre de usuario en la Consola:
-
-~~~
-whoami
-~~~
-
-Ejemplo:
-~~~
-$ whoaim
-debian
-~~~
-
-
 • Adquirir privilegio root:
 
 ~~~
@@ -51,7 +38,7 @@ su
 • Agregar usuario al grupo SUDO:
 
 ~~~
-sudo usermod -aG sudo whoami
+sudo usermod -aG sudo $USER
 ~~~
  
 • Reiniciar el Sistema:
