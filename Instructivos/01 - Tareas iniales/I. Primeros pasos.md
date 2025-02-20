@@ -34,6 +34,11 @@ gsettings set org.gnome.software download-updates false
 whoami
 ~~~
 
+~~~
+$ whoaim
+debian
+~~~
+
 
 • Adquirir privilegio root:
 
