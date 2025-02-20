@@ -17,17 +17,13 @@ sudo nano /etc/apt/sources.list
 • Introducir componentes generales:
 
 ~~~
-sed -i
-
-'#DEBIAN 12
+#DEBIAN 12
 deb http://deb.debian.org/debian bookworm main contrib non-free non-free-firmware
 deb http://deb.debian.org/debian-security bookworm-security main contrib non-free non-free-firmware
 deb http://deb.debian.org/debian bookworm-updates main contrib non-free non-free-firmware
 
 #BACKPORTS
-deb http://deb.debian.org/debian bookworm-backports main contrib non-free non-free-firmware'
-
-/etc/apt/sources.list
+deb http://deb.debian.org/debian bookworm-backports main contrib non-free non-free-firmware
 ~~~
 
 • Guardar cambios:
