@@ -8,6 +8,12 @@ sudo truncate -s0 /etc/apt/sources.list
 
 #### III.2 - Cambiar las fuentes
 
+• Abrir lista de fuentes:
+
+~~~
+sudo nano /etc/apt/sources.list
+~~~
+
 • Introducir componentes generales:
 
 ~~~
