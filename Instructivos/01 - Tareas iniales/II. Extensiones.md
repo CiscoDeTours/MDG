@@ -45,4 +45,5 @@ https://extensions.gnome.org/extension/517/caffeine/
 https://extensions.gnome.org/extension/779/clipboard-indicator/
 
 • Windows ready useful notification:
+
 https://extensions.gnome.org/extension/1007/window-is-ready-notification-remover/
