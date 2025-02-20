@@ -50,7 +50,7 @@ su
 
 • Agregar usuario al grupo SUDO:
  
-`sudo usermod -aG sudo` `nombre`
+`sudo usermod -aG sudo` `$whoami`
 
 
 • Reiniciar el Sistema:
