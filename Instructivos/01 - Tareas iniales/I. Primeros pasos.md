@@ -34,6 +34,7 @@ gsettings set org.gnome.software download-updates false
 whoami
 ~~~
 
+Ejemplo:
 ~~~
 $ whoaim
 debian
