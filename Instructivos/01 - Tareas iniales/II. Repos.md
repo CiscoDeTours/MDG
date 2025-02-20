@@ -48,3 +48,10 @@ sudo dpkg --add-architecture i386
 ~~~
 sudo apt update
 ~~~
+
+
+#### III.6 - Actualizar el sistema
+
+~~~
+sudo apt upgrade
+~~~
