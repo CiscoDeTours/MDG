@@ -49,10 +49,11 @@ su
 
 
 • Agregar usuario al grupo SUDO:
+
+~~~
+sudo usermod -aG sudo whoami
+~~~
  
-`sudo usermod -aG sudo` `$whoami`
-
-
 • Reiniciar el Sistema:
 
 ~~~
