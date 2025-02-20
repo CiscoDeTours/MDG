@@ -30,12 +30,9 @@ gsettings set org.gnome.software download-updates false
 
 • Identificar nombre de usuario en la Consola:
 
-> **Nota:**
-> <p> <p>
->  
-> Es aquel de color verde que se encuentra al lado izquierdo de la arroba 
-
-**nombre**@debian:~$
+~~~
+whoami
+~~~
 
 
 • Adquirir privilegio root:
